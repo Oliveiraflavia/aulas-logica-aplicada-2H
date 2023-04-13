@@ -12,6 +12,13 @@ public class Main {
        // Laço para faça
         for (int x=0; x < 10; x++){
             System.out.println("Contador = " + x);
+            // Laço para faça  enquanto
+            int cont = 1;
+            do {
+
+                // processo
+                System.out.println(cont);
+            }while(cont <= 1);
         }
     }
 }
