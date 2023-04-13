@@ -18,7 +18,7 @@ public class Main {
 
                 // processo
                 System.out.println(cont);
-            }while(cont <= 1);
+            }while(cont <= 10);
         }
     }
 }
